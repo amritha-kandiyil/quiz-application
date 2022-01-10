@@ -2,15 +2,19 @@
 
 A new Flutter project.
 
-## Getting Started
+*Hardware Requirements: *
 
-This project is a starting point for a Flutter application.
+-> RAM - 8 GB RAM
 
-A few resources to get you started if this is your first Flutter project:
+-> Processor - i5 8th gen and above 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-> Screen Resolution - 720p and above
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+*Software Requirements-*
+
+-> Operating System- Windows 10/11
+
+-> Application - Flutter, Android Studio (Version 4 and above ) Studio, Visual Studio Code ( Version 1.61.2 )
+
+-> Emulator - Pixel 3a
